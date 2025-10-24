@@ -1,2 +1,3 @@
-# odin-recipies
-My first html odin project
+# odin-recipes
+My first Odin Project— building a basic recipe page using semantic HTML.
+
